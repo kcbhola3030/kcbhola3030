@@ -13,7 +13,7 @@
 - 👋 Hi, I’m @kcbhola3030 <br>
 - 👀 I’m interested in Web Development<br>
 - 🌱 I’m currently learning GoLang<br>
-- 💞️ I’m looking to collaborate on Open Source <br>
+- 💞️ I’m looking to contribute in Open Source <br>
 - 📫 How to reach me <a href="mailto:kcbhola123@gmail.com">kcbhola123@gmail.com</a> <br>
 - 📒 Currently Reading : The Love Hypothesis by Ali Hazelwood
 <br>
